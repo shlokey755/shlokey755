@@ -1,7 +1,7 @@
 sup.
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="font-family: monospace;">
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
+  <div style="font-family: monospace; white-space: nowrap;">
     {<br>
     &nbsp;&nbsp;"name": "Shlok",<br>
     &nbsp;&nbsp;"College": "Don Bosco Institute of Technology",<br>
@@ -9,7 +9,7 @@ sup.
     }
   </div>
   <div>
-    <img src="https://media.tenor.com/SYpPMBbmqvYAAAAe/very-silly-cat-silly.png" width="150">
+    <img src="https://media.tenor.com/SYpPMBbmqvYAAAAe/very-silly-cat-silly.png" width="130" style="display: block;">
   </div>
 </div>
 
