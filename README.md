@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shlokey755/shlokey755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ☕💤 Code & Chaos 🍥🤖
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### *Fueled by cold coffee, running on 3 hours of sleep, arguing with Claude, and binging anime.*
+
+</div>
+
+---
+
+## ⚡ My Daily Routine
+
+| Activity | Current Status | Mood / Vibe |
+| :--- | :--- | :--- |
+| **☕ Cold Coffee** | 📉 Level: Dangerously Low | *Need refill immediately* |
+| **💤 Sleep** | ❌ Optional / Mythical | *Running purely on vibes* |
+| **🤖 Claude** | 🤝 Copilot / Therapist | *"Claude, please fix this segfault"* |
+| **🍥 Anime** | 🍿 Main Priority | *"Just one more episode before I code..."* |
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3ov9jLsBqPh6rjuHuM/giphy.gif" width="400" />
+
+### *“Just one more chapter/episode... then I'll fix the bug.”* 🛌✨
+
+</div>
