@@ -1,11 +1,11 @@
 ---
 sup.
 <div align="left">
-{
-"name":"Shlok",
-"College":"Don Bosco Institute of Technology",
-"Age":19
-}
+{<br> 
+"name":"Shlok",<br>
+"College":"Don Bosco Institute of Technology",<br> 
+"Age":19<br>
+}<br>
 </div>
 <div align="right">
   <img src="https://media.tenor.com/SYpPMBbmqvYAAAAe/very-silly-cat-silly.png">
