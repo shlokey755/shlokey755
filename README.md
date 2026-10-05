@@ -1,30 +1,5 @@
 <div align="center">
 
-# ☕💤 Code & Chaos 🍥🤖
+hi
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
-
-### *Fueled by cold coffee, running on 3 hours of sleep, arguing with Claude, and binging anime.*
-
-</div>
-
----
-
-## ⚡ My Daily Routine
-
-| Activity | Current Status | Mood / Vibe |
-| :--- | :--- | :--- |
-| **☕ Cold Coffee** | 📉 Level: Dangerously Low | *Need refill immediately* |
-| **💤 Sleep** | ❌ Optional / Mythical | *Running purely on vibes* |
-| **🤖 Claude** | 🤝 Copilot / Therapist | *"Claude, please fix this segfault"* |
-| **🍥 Anime** | 🍿 Main Priority | *"Just one more episode before I code..."* |
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3ov9jLsBqPh6rjuHuM/giphy.gif" width="400" />
-
-### *“Just one more chapter/episode... then I'll fix the bug.”* 🛌✨
-
-</div>
+<iframe src="https://giphy.com/embed/Cyb3yY4V7G71Tsvuuz" width="449" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funnycat-greencat-shockedcat-Cyb3yY4V7G71Tsvuuz"></a></p>
