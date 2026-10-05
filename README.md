@@ -1,7 +1,7 @@
 ---
 sup.
 
-<div align="centre">
+<div align="right">
   <img src="https://media.tenor.com/SYpPMBbmqvYAAAAe/very-silly-cat-silly.png">
 </div>
 
