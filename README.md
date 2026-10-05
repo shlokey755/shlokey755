@@ -8,7 +8,7 @@ sup.
 }<br>
 </div>
 <div align="right">
-  <img src="https://media.tenor.com/SYpPMBbmqvYAAAAe/very-silly-cat-silly.png">
+  <img src="https://media.tenor.com/SYpPMBbmqvYAAAAe/very-silly-cat-silly.png" height="400px" width="300px">
 </div>
 
 ---
