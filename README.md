@@ -1,11 +1,9 @@
 ---
 sup.
 <div align="left">
-{<br> 
-"name":"Shlok",<br>
-"College":"Don Bosco Institute of Technology",<br>
-"Age":19<br>
-}<br>
+| ----- | -- | ---- |
+| Shlok | 19 | DBIT |
+| ----- | -- | ---- |
 <img src="https://media.tenor.com/SYpPMBbmqvYAAAAe/very-silly-cat-silly.png" height="200px" width="150px">
 </div>
 ---
